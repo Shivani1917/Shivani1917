@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python & Data Science**
 
-- 📫 How to reach me **badolashivani19@gmail.com**
+- 📧 How to reach me **badolashivani19@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bIMLZbceUuhFomZXAg6A-PsudWs70kHb/view?usp=sharing](https://drive.google.com/file/d/1bIMLZbceUuhFomZXAg6A-PsudWs70kHb/view?usp=sharing)
 
