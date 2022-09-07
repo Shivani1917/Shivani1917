@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
 
-<p align="left">I am a Student who enjoys creating and working with design and colors, likes to code</p>
+<p align="left">I am a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. It is my intention to contribute to the growth of the company. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
 
