@@ -5,6 +5,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
 
+<p align="left">I am a Student who enjoys creating and working with design and colors, likes to code</p>
+
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
 
 - 🙌 I’m looking to collaborate on **Graphic Designing and Front-end Projects**
