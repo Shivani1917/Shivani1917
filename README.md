@@ -1,4 +1,4 @@
-<h1 align="center">Hii🙌, I'm Shivani Badola</h1>
+<h1 align="center">Hii🙋🏻‍♀️, I'm Shivani Badola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
