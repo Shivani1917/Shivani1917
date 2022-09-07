@@ -7,7 +7,7 @@
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
 
-- 🙌 I’m looking to collaborate on **Graphic Designing and Front-end**
+- 🙌 I’m looking to collaborate on **Graphic Designing and Front-end Projects**
 
 - 💬 Ask me about **UI/UX**
 
