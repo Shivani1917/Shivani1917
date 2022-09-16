@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=1000&color=000BFF&width=435&lines=Welcome+to+My+GitHub+Profile;I'm+a+Creative+Coder!!;Still+figuring+out+the+best" alt="Typing SVG" /></a></p>
+<strong><p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=500&pause=1000&color=000BFF&width=435&lines=Welcome+to+My+GitHub+Profile;I'm+a+Creative+Coder!!;Still+figuring+out+the+best" alt="Typing SVG" /></a></p></strong>
 
 <p align="left">I am a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. It is my intention to contribute to the growth of the company. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
