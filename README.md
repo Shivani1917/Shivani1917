@@ -12,8 +12,6 @@
 
 - 🙌 I’m looking to collaborate on **Graphic Designing and Front-end Projects**
 
-- 💬 Ask me about **UI/UX**
-
 - 🌱 I’m currently learning **Python & Data Science**
 
 - 📧 How to reach me **badolashivani19@gmail.com**
