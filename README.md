@@ -1,4 +1,5 @@
-![Untitled design (2)](https://user-images.githubusercontent.com/79411680/200132461-a333884e-07d5-4be0-985c-cdf09eb72445.png)
+![Shivani badola](https://user-images.githubusercontent.com/79411680/200133185-f0821797-4a10-47d7-b3e4-9d533353a555.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
