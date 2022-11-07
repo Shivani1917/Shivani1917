@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
 
-<p align="justify">I am a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
+<p align="justify">I am Bvoc(Web Designing) Student from Kalindi College(DU) and a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
 
