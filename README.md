@@ -4,17 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
 
-<p align="left">I am a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. It is my intention to contribute to the growth of the company. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
+<p align="left">I am a creative, adaptable and flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
-
-- 🙌 I’m looking to collaborate on **Graphic Designing and Front-end Projects**
 
 - 🌱 I’m currently learning **Python & Data Science**
 
 - 📧 How to reach me **badolashivani19@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bIMLZbceUuhFomZXAg6A-PsudWs70kHb/view?usp=sharing](https://drive.google.com/file/d/1bIMLZbceUuhFomZXAg6A-PsudWs70kHb/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
