@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/shivani-badola-659aba221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani-badola-659aba221" height="30" width="40" /></a>
 <a href="https://fb.com/shivani.badola.5473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivani.badola.5473" height="30" width="40" /></a>
 <a href="https://instagram.com/shivani_badola19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivani_badola19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/badolashivani19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="badolashivani19" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
