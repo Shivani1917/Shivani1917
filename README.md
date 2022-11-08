@@ -30,7 +30,3 @@
 <p align="center">&nbsp;<img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani1917&theme=dark&hide_border=true" alt="shivani1917" /></p>
 
 [![@shivani_badola's Holopin board](https://holopin.me/shivani_badola)](https://holopin.io/@shivani_badola)
-
-
-
-
