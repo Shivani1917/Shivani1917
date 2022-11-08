@@ -25,9 +25,9 @@
 
 <p align="center"><img align="center" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani1917&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="shivani1917" /></p>
 
-<p align="center">&nbsp;<img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani1917&theme=dark&hide_border=true" alt="shivani1917" /></p>
-
 <p align="center"><img align="center" width="600px" src="https://github-readme-stats.vercel.app/api?username=Shivani1917&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="shivani1917" /></p>
+
+<p align="center">&nbsp;<img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani1917&theme=dark&hide_border=true" alt="shivani1917" /></p>
 
 [![@shivani_badola's Holopin board](https://holopin.me/shivani_badola)](https://holopin.io/@shivani_badola)
 
