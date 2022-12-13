@@ -12,9 +12,11 @@
 
 - 📧 How to reach me **badolashivani19@gmail.com**
 
+- ✍️ Will start Blogs on **https://shivanibadola19.hashnode.dev**
+
 - 🐶 Love working with Graphics and designing, also into sketching
 
-- Will start Blogs on **shivanibadola19.hashnode.dev**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
