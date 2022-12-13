@@ -12,7 +12,7 @@
 
 - 📧 How to reach me **badolashivani19@gmail.com**
 
-- 🐶 Love working with Graphics and designing, also into sketches.
+- 🐶 Love working with Graphics and designing, also into sketching
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
