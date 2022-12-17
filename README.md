@@ -14,7 +14,7 @@
 
 - ✍️ Will start Blogs on **https://shivanibadola19.hashnode.dev**
 
-- 🐶 Love working with Graphics and designing, also into sketching
+- 🐶 Love working with Graphics and designing, also into sketching.
 
 
 
