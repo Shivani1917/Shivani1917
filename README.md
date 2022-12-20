@@ -1,4 +1,4 @@
-![Shivani badola](https://user-images.githubusercontent.com/79411680/200133185-f0821797-4a10-47d7-b3e4-9d533353a555.png)
+![Shivani badola (1)](https://user-images.githubusercontent.com/79411680/208597041-2a3c2533-1093-4050-afb3-3a691af9fb79.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
 
