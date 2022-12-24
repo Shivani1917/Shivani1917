@@ -1,5 +1,5 @@
 ```python
-print("Hello Welcome to my Profile :)!!")
+print("Hello Welcome to my Profile!")
 ```
 
 ![Shivani badola (1)](https://user-images.githubusercontent.com/79411680/208597041-2a3c2533-1093-4050-afb3-3a691af9fb79.png)
