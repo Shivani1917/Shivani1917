@@ -1,12 +1,15 @@
-```python
-print("Hello Welcome to my Profile!")
-```
-
-![Shivani badola (1)](https://user-images.githubusercontent.com/79411680/208597041-2a3c2533-1093-4050-afb3-3a691af9fb79.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
+
+```python
+print("Hello Welcome to my Profile!")
+```
+<div align="center" >
+  <img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairCurvy&accessoriesType=Round&hairColor=Black&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light'/>
+  <h1>Hye, I'm Shivani Badola</h1>
+  <h4>Still figuring out the best!</h4>
+</div>
 
 <p align="justify">I am a student pursuing B.Voc(Web Designing) from Kalindi College(University of Delhi) & a creative, adaptable & flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
