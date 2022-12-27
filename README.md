@@ -12,8 +12,6 @@ print("Hello Welcome to my Profile!")
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
 
-- 🌱 I’m currently learning **Python & Data Science**
-
 - 📧 How to reach me **badolashivani19@gmail.com**
 
 - ✍️ Will start Blogs on **https://shivanibadola19.hashnode.dev**
