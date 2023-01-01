@@ -1,3 +1,9 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
+
+
 ```python
 print("Hello Welcome to my Profile!")
 ```
@@ -46,7 +52,3 @@ print("Hello Welcome to my Profile!")
 <p align="center">&nbsp;<img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani1917&theme=dark&hide_border=true" alt="shivani1917" /></p>
 
 [![@shivani_badola's Holopin board](https://holopin.me/shivani_badola)](https://holopin.io/@shivani_badola)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1917&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1917" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shivanibadola19" target="blank"><img src="https://img.shields.io/twitter/follow/shivanibadola19?logo=twitter&style=for-the-badge" alt="shivanibadola19" /></a> </p>
