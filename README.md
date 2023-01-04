@@ -1,10 +1,10 @@
 ```python
 print("Hello Welcome to my Profile!")
+print("Still figuring out the best")
 ```
 <div align="center" >
   <img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairCurvy&accessoriesType=Round&hairColor=Black&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light'/>
   <h1>Hye! , I'm Shivani Badola</h1>
-  <h3>Still figuring out the best!</h3>
 </div>
 
 <p align="justify">I am a student pursuing B.Voc(Web Designing) from Kalindi College(University of Delhi) & a creative, adaptable & flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
