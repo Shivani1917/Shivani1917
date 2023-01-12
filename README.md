@@ -41,10 +41,6 @@ print("Hello Welcome to my Profile!")
 
 
 
-/*<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani1917" alt="shivani1917" /></p>
-
-<p align="center"><img align="center" width="600px" src="https://github-readme-stats.vercel.app/api?username=Shivani1917" alt="shivani1917" /></p>*/
-
 <p align="center">&nbsp;<img align="center" width="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani1917" alt="shivani1917" /></p>
  
 
