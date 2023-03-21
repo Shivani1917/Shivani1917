@@ -10,7 +10,7 @@ print("Hello Welcome to my Profile!")
 
 </div>
 
-<p align="justify">I am a student pursuing B.Voc(Web Designing) from Kalindi College(University of Delhi) & a creative, adaptable & flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
+<p align="justify">I am a student of B.Voc (Web Designing) from Kalindi College(University of Delhi) & a creative, adaptable & flexible fresher who shows great versatility when it comes to learning new skills. Every field of endeavor requires the application of creativity. As a member of a team, I have demonstrated my ability to work in collaboration during my last project in operations.</p>
 
 
 - ✍️ Current VGA Co-Lead at **Google Developer Student Club Kalindi**
