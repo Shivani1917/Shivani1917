@@ -1,5 +1,13 @@
 ```python
 print("Hello Welcome to my Profile!")
+
+codeDays = 1
+working = 1
+
+while codeDays == working:
+   print("I am happily coding")
+   codeDays += 1
+   working += 1
 ```
 <div align="center">
 
