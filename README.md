@@ -30,7 +30,7 @@ while codeDays == working:
 - 🐶 Love working with Graphics and designing, also into sketching. 
 
 ## Connect With Me:
-<div align="left">
+<div align="center">
 <a href="https://github.com/Shivani1917" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
