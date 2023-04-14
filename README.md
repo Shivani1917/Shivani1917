@@ -13,7 +13,7 @@ while codeDays == working:
 
   <img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairCurvy&accessoriesType=Round&hairColor=Black&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light'/>
   
-  <h1>Hye, I'm Shivani Badola!</h1>
+  <h1>Hye, I'm Shivani Badola</h1>
   <h3>Still figuring out the best</h3>
 
 </div>
